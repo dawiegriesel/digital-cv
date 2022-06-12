@@ -1,5 +1,5 @@
 
-! [Alt text] (./profilePic.jpg)
+<![alt](https://github.com/dawiegriesel/digital-cv/blob/gh-pages/profilePic.jpg)>
 # Dawie Griesel CA(SA)
 _Data Scientist and CTO based in Cape Town, South Africa_ <br>
 
