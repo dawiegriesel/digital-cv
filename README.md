@@ -1,4 +1,3 @@
-# Dawie Griesel CA(SA)
 _Data Scientist and CTO based in Cape Town, South Africa_ <br>
 
 ![DG Immage](images/profilePic.jpg)
