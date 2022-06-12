@@ -19,8 +19,7 @@ Participate in high-level operational initiatives, including infrastructure desi
 Motivate, mentor and lead talented staff. Live the culture and lead by example. Direct teams using interactive and motivational leadership that spurs people to willingly give 110% effort and loyalty.
 
 # Skills and technologies
-## Proficient: _R, CSS, HTML, PostrgreSQL, Docker_
-## Familiar: _Python, JavaScript, Vue_
+![Skills Plot](images/skillsPlot.png)
 
 # Most Recent Role: Akhile Digital
 CTO and Data Scientist. 
