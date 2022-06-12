@@ -3,7 +3,7 @@
 [Email](mailto:dawiegr@gmail.com) / [LinkedIn](https://www.linkedin.com/in/dawie-griesel/) / [GitHub](https://github.com/dawiegriesel/) 
 
 # About
-Digital transformation is a new paradigm in the world of business. It is a new way of thinking about business, and it is a new way of doing business. I am a qualified charterred accountant that believe that technology will transform our industry completely. Using R and Shiny, I have created various web applications for local government for data analysis, creating long-term financial plans, and measure performance. 
+Digital transformation is a new paradigm in the world of business. It is a new way of thinking about business, and it is a new way of doing business. I am a qualified charterred accountant that believe that technology will transform our industry completely. Using R and Shiny, I have created various web applications for local government to enable data analysis, long-term financial planning, and performance measurement the digital way. 
 # Professional Experience
 ## Cloud based data product development
 Developed the first of it's kind cloud based data product for the local government. The product is a web application that allows users to view, analyse data using statistical models as well creating lonf-term finanancial plans using business logic, accounting principles and predictive models (ML & AI). The product is built using R and Shiny.
