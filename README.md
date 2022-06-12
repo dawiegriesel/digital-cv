@@ -1,7 +1,7 @@
-
-<![alt](https://github.com/dawiegriesel/digital-cv/blob/gh-pages/profilePic.jpg)>
 # Dawie Griesel CA(SA)
 _Data Scientist and CTO based in Cape Town, South Africa_ <br>
+
+![DG Immage](images/profilePic.jpg)
 
 [Email](mailto:dawiegr@gmail.com) / [LinkedIn](https://www.linkedin.com/in/dawie-griesel/) / [GitHub](https://github.com/dawiegriesel/) 
 
