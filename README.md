@@ -22,9 +22,11 @@ Motivate, mentor and lead talented staff. Live the culture and lead by example. 
 ## Proficient: _R, CSS, HTML, PostrgreSQL, Docker_
 ## Familiar: _Python, JavaScript, Vue_
 
-# Most Recent Role
-My current role at Akhile Digital is CTO and Data Scientist. I am responsible for the development of the Akhile Digital platform called MST (Municipal Sustainability Tool) as well as managing the development team that develop and support various cloud based applications for the local government digital transformation journey.
-I am also involved with data analytics and statistical modelling on various projects for local and national government.
+# Most Recent Role: Akhile Digital
+CTO and Data Scientist. 
+* Responsible for the development of MST (Municipal Sustainability Tool) platform
+* Management of the development team that develop and support various cloud based applications for the local government digital transformation journey.
+* Data analytics and statistical modelling on various projects for local and national government.
 
 # Employment History
 ## Aug 2019 - Present: Akhile Digital
