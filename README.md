@@ -31,6 +31,7 @@ _*Responsibilities as CTO include:*_
 * Client interaction and business development;
 * Responding to local government tenders; and
 * Responding to customer needs and requests.
+
 _*Responsibilities as Data Scientist include:*_   
 * Data cleaning and transformation;
 * Development of machine learning models;
