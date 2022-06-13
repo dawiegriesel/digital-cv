@@ -24,7 +24,7 @@ Motivate, mentor and lead talented staff. Live the culture and lead by example. 
 # Employment History
 ## Aug 2019 - Present: Akhile Digital
 CTO and Data Scientist.   
-_*Responsibilities as CTO include:*_
+_*Responsibilities as CTO include:*_   
 * Development of MST (Municipal Sustainability Tool) platform, a first of it's kind in local government with data driven decision making as the primary goal;
 * Management and mentoring of the development team that develop and support various cloud based applications for the local government digital transformation journey;
 * Strategic planning and management of the cloud based applications technologies, architecture, resourcing, and deployment;
