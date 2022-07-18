@@ -42,6 +42,15 @@ Motivate, mentor and lead talented staff. Live the culture and lead by example. 
 
 ![Skills Plot](images/skillsPlot.png)
 
+# Qualifications
+## Chartered Accountant (CA) SA - SAICA Registered 
+## BCom (Hons) Accounting - University of Pretoria
+## Online Courses
+* Introduction to Statistics & Data Analysis in Public Health - Coursera
+* Linear Regression in R for Public Health - Coursera
+* Exploring ​and ​Preparing ​your ​Data with BigQuery - Coursera
+* 23 Online Courses - DataCamp
+
 # Employment History
 
 ## Aug 2019 - Present: Akhile Digital
