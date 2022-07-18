@@ -46,7 +46,9 @@ Motivate, mentor and lead talented staff. Live the culture and lead by example. 
 
 ## Aug 2019 - Present: Akhile Digital
 
-CTO and Data Scientist. *Responsibilities as CTO include:*
+CTO (Digital Solutions Project Delivery) and Data Scientist. 
+
+*Responsibilities as CTO include:*
 
 -   Development of MST (Municipal Sustainability Tool) platform, a first of it's kind in local government with data driven decision making as the primary goal;
 
@@ -71,6 +73,7 @@ CTO and Data Scientist. *Responsibilities as CTO include:*
 -   Analyze data and create reports and dashboards; and
 
 -   Mentor junior and interns.
+
 
 ## Apr 2015 - Jul 2019: Wellness Odyssey
 
